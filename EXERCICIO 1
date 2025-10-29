@@ -1,0 +1,8 @@
+class Main {
+    public static void main(String[] args) {
+        int idade=16;
+        System.out.println("ernesto");
+        System.out.println("promora");
+        System.out.println(idade);
+    }
+}
